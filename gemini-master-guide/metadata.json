@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Master Guide",
+  "description": "A comprehensive, step-by-step interactive application to help users understand how to use Gemini AI, including file uploads and prompting, specifically designed in Uzbek language.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
